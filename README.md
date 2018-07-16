@@ -1,7 +1,7 @@
 # HTML Album Cover
 <img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" align="right" hspace="10">
 
-Pharrell isn't quite happy, he needs some help coding the album cover for his
+Pharrell isn't quite happy; he needs some help coding the album cover for his
 hit song "Happy." His dev chops aren't quite as skilled as yours, so he's hired
 you to take care of business.
 
